@@ -1,0 +1,5 @@
+1, Fruit, Apple, Orange, Banana
+2, Vegetable, Tomato, Cucumber, Radish, Pepper
+3, Nut, Peanut, Almond, Hazelnut
+4, Spice, Solt, Pepper, Cardamont
+6, Task, 
